@@ -1,0 +1,155 @@
+    1  cd Desktop
+    2  git clone https://github.com/jonasschmedtmann/advanced-css-course.git
+    3  cd Desktop/
+    4  mkdir FirstProgram
+    5  cd FirstProgram/
+    6  touch hello_world.py
+    7  ls
+    8  subl hello_world.py 
+    9  ls
+   10  python3 hello_world.py 
+   11  cd Desktop/
+   12  git clone https://github.com/CleverProgrammers/react-portfolio.git
+   13  whoami
+   14  python udemy-dl.py Course Url -k cookies.txt
+   15  python udemy-dl.py Course Url -k cookies.txt
+   16  sudo python udemy-dl.py Course Url -k cookies.txt
+   17  PY udemy-dl.py Course Url -k cookies.txt
+   18  cd Documents/
+   19  PY udemy-dl.py Course Url -k cookies.txt
+   20  ls
+   21  cd udemy-dl-master
+   22  PY udemy-dl.py Course Url -k cookies.txt
+   23  Python udemy-dl.py Course Url -k cookies.txt
+   24  git --version
+   25  node --version
+   26  npm --version
+   27  echo $PATH
+   28  sudo npm install -g browser-sync
+   29  npm install -g browser-sync
+   30  browser-sync --version
+   31  mkdir test-site
+   32  cd test-site/
+   33  ls
+   34  cd /Desktop
+   35  cd Desktop
+   36  ls
+   37  ls
+   38  cd Desktop
+   39  cd test-site/
+   40  browser-sync start --server
+   41  browser-sync start --server --directory
+   42  browser-sync start --server --directory '*'
+   43  cd Desktop
+   44  cd /Desktop
+   45  ls
+   46  cd ..
+   47  git clone https://github.com/Mduduzi4069/coursera-test.git
+   48  ls
+   49  cd coursera-test/
+   50  ls
+   51  git status
+   52  git checkout out gh-pages
+   53  git checkout gh-pages
+   54  ls
+   55  mkdir site
+   56  cd site/
+   57  git status
+   58  cd ..
+   59  git status
+   60  git add .
+   61  git status
+   62  git commit -m "My first page!"
+   63  git status
+   64  git push
+   65  git status
+   66  git add .
+   67  git status
+   68  git commit -m "Small additionnto our page content."
+   69  git status
+   70  git push
+   71  browser-sync start --server --directory '*'
+   72  ls
+   73  cd site/
+   74  browser-sync start --server --directory '*'
+   75  cd /Desktop
+   76  cd ..
+   77  cd ..
+   78  git clone https://github.com/jhu-ep-coursera/fullstack-course4.git
+   79  ls
+   80  cd Documents/
+   81  ls
+   82  cd CSS\ -\ My\ Site\ Images
+   83  cd
+   84  cd Documents/CSS\ -\ My\ Site\ Images
+   85  cd /
+   86  cd
+   87  cd ~/CSS - My Site Images
+   88  cd ~/'CSS - My Site Images'
+   89  cd Desktop/
+   90  mkdir git-basic-excercises
+   91  cd git-basic-excercises/
+   92  ls
+   93  ls -a
+   94  git init
+   95  ls -a
+   96  git status
+   97  touch README.md
+   98  git status
+   99  ls -a
+  100  git log
+  101  git add .
+  102  git status
+  103  git commit "initial commit"
+  104  git rm --cached README.md 
+  105  git status
+  106  git commit "initial commit"
+  107  git add .
+  108  git status
+  109  git commit "initial commit"
+  110  git commit -m "initial commit"
+  111  git log
+  112  q
+  113  nano README.md 
+  114  nano README.md 
+  115  cat README.md 
+  116  git stats
+  117  git status
+  118  git add .
+  119  git commit -m "second commit"
+  120  nano README.md 
+  121  git status
+  122  git add .
+  123  git status
+  124  git commit -m "third commit"
+  125  git log
+  126  git config --global user.name 'Mduduzi Malapane'
+  127  git config --global user.email 'mduduzimalapane8@gmail.com'
+  128  git log
+  129  git checkout 61a9ba82ef3fc0519629df8009afcde9374b20a4
+  130  cat README.md 
+  131  git checkout master
+  132  cat README.md 
+  133  git branch milkshake-flavours
+  134  git branch 
+  135  git checkout milkshake-flavours 
+  136  nano milkshakes.md
+  137  cat milkshakes.md 
+  138  git status
+  139  git add .
+  140  git commit -m "added initial flavours"
+  141  git checkout master
+  142  git status
+  143  git log
+  144  git branch history
+  145  git checkout history
+  146  git branch
+  147  git checkout master
+  148  git branch -d history
+  149  git branch
+  150  history > history.txt
+  151  git branch history
+  152  git checkout history
+  153  git log
+  154  git branch
+  155  history > history.txt
